@@ -1,7 +1,6 @@
 # All-Cheap-Domain-Registrars
 Below, are the carefully selected Domain registry that is the most reliable, affordable, high-customer service, and strong DNS service.
 
----
 
 ## 💰 General Domain Registrars (Highly Recommended; Cheap + Reliable)
 
