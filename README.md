@@ -19,7 +19,7 @@ Below, are the carefully selected Domain registry that is the most reliable, aff
 
 ---
 
-## 🇬🇧 .UK (Recommended) Domain Registrars
+## 🇬🇧 .UK (Recommended and known) Domain Registrars
 
 - OnlyDomains — Clean interface with broad TLD availability. https://www.onlydomains.com/domains  
 - Purely.Website — Simple domain management with UK-focused services. https://my.purely.website  
