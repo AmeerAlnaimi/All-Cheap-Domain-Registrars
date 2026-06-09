@@ -6,7 +6,7 @@ Below, are the carefully selected Domain registry that is the most reliable, aff
 ## 💰 General Domain Registrars (Highly Recommended; Cheap + Reliable)
 
 - Namecheap — Highly recommended for affordability, ease of use, and strong support. https://www.namecheap.com  
-- Spaceship — Modern platform with competitive pricing and clean UX. https://www.spaceship.com  
+- Spaceship — Modern platform with competitive pricing and clean UX/UI design. https://www.spaceship.com  
 - Cloudflare Registrar — Trusted infrastructure provider; near-cost pricing and strong security. https://domains.cloudflare.com  
 - Dynadot — Reliable registrar with strong bulk management tools. https://www.dynadot.com  
 
